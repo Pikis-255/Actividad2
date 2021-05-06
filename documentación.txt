@@ -1,0 +1,13 @@
+El programa snake.py es un programa obtenido de la librería freegames.
+Este programa permite al usuario recrer el famoso juego de la serpiente,
+donde tendremos que manejar a una serpiente y guiarla a comer de los objetos
+que aparecen de manera aleatoria en el juego, mientras esta se hace más grande
+cada vez que come. El objetivo del juego es llegar a ser lo más grande posible
+sin morir comiéndote o chocando contra las paredes.
+Las modificaciones del juego son las siguientes:
+- La comida se mueve de manera aleatoria por cada paso que da la serpiente
+- Cada vez que se inicia el juego, la serpiente y la comida cambian de color,
+  siendo estos siempre distintos entre sí y al color rojo.
+
+Las modificaciones fueron realizadas por Claudia Paola García Nocetti
+[A01424238] y Andrick J.P. Landa [A01424206]
