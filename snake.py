@@ -53,7 +53,7 @@ def move():
     square(food.x, food.y, 9, color2)
     update()
     ontimer(move, 100)
-colores = ["pink", "green", "yellow", "organge", "aqua"]
+colores = ["pink", "green", "yellow", "organge","black"]
 setup(420, 420, 370, 0)
 num = randrange(0, 4)
 color = colores[num]
