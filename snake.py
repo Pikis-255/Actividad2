@@ -65,6 +65,9 @@ num = randrange(0, 4)
 color = colores[num]
 num2 = randrange(0,4)
 color2 = colores[num2]
+while color == color2:
+    num2 = randrange(0,4)
+    color2 = colores[num2]
 hideturtle()
 tracer(False)
 listen()

@@ -5,17 +5,9 @@ que aparecen de manera aleatoria en el juego, mientras esta se hace más grande
 cada vez que come. El objetivo del juego es llegar a ser lo más grande posible
 sin morir comiéndote o chocando contra las paredes.
 Las modificaciones del juego son las siguientes:
-- La comida se mueve de manera aleatoria por cada paso que da la serpiente:
-	Esta modificación se hizo en las líneas 34 y 35, ubicando en esa
-	posición las líneas que se encontraban en las posiciones 46 y 47,
-	comentando estas últimas.
+- La comida se mueve de manera aleatoria por cada paso que da la serpiente
 - Cada vez que se inicia el juego, la serpiente y la comida cambian de color,
-  siendo estos siempre distintos entre sí y al color rojo:
-	Esta modificación se realizó en las líneas 54, 56, 62-70.
-	Se agregó un arrego de colores y una variale con un entero aleatorio,
-	para poder asignar un color a la serpiente, de mismo modo con la
-	comida. También se agregó un condicional, para evitar que los 
-	colores de la serpiente y la comida no sean iguales.
+  siendo estos siempre distintos entre sí y al color rojo.
 
 Las modificaciones fueron realizadas por Claudia Paola García Nocetti
 [A01424238] y Andrick J.P. Landa [A01424206]
