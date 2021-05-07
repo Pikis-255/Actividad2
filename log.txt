@@ -1,0 +1,49 @@
+commit ce9ec74caf10aacd1dad3dd593bb341d108815bd
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Thu May 6 14:11:58 2021 -0500
+
+    doc y py listos
+
+commit 9ffad5736f95e41b622b7b5b436e7e29bbc55ecb
+Merge: ab6b374 4d3f8b6
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Thu May 6 13:58:49 2021 -0500
+
+    Merge branch 'master' of https://github.com/Pikis-255/Actividad2
+
+commit ab6b3747a0ca3fea961095813ce593de5f7d7bf9
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Thu May 6 13:56:58 2021 -0500
+
+    Doc
+
+commit 4d3f8b62d5b887b3601d22afc9c3443d8efbb8f4
+Merge: f7e3bea 053b39c
+Author: Pikis-255 <g.nocetti3556@gmail.com>
+Date:   Thu May 6 13:52:34 2021 -0500
+
+    colores
+
+commit f7e3bea37f0dc0998ac5a47fab501f7f9ef81738
+Author: Pikis-255 <g.nocetti3556@gmail.com>
+Date:   Thu May 6 13:48:06 2021 -0500
+
+    colores
+
+commit 9c23c914b57444eedee6ae7f1945dc737d9b1ef7
+Author: Pikis-255 <g.nocetti3556@gmail.com>
+Date:   Thu May 6 13:32:09 2021 -0500
+
+    colores
+
+commit 053b39c3bd3d57417dc71f74569af30bf52e531b
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Thu May 6 13:26:47 2021 -0500
+
+    comidarandom
+
+commit b2e66a98cd39a37e52a3aebfcf9cab3f8f5b52b1
+Author: Pikis-255 <g.nocetti3556@gmail.com>
+Date:   Thu May 6 11:57:28 2021 -0500
+
+    Inicio
